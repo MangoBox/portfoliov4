@@ -47,7 +47,11 @@ export default function Home() {
       { y: 0, x: 0, transform: "scale(1)" }
     );
   }, []);
-
+  const sorted_projects = data.projects.sort((a, b) => {
+    if (a.featured && !b.featured) return -1;  // Move `a` to the front
+    if (!a.featured && b.featured) return 1;   // Move `b` to the front
+    return 0;  // No change if both are the same
+  });
   return (
     <div className={`relative ${data.showCursor && "cursor-none"}`}>
       {data.showCursor && <Cursor />}
@@ -97,13 +101,14 @@ export default function Home() {
           <h1 className="text-2xl text-bold">Work.</h1>
 
           <div className="mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-2 gap-4">
-            {data.projects.map((project) => (
+            {sorted_projects.map((project) => (
               <WorkCard
                 key={project.id}
                 img={project.imageSrc}
                 name={project.title}
                 description={project.description}
                 onClick={() => window.open(project.url)}
+                featured={project?.featured}
               />
             ))}
           </div>

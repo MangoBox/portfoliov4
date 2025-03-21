@@ -100,7 +100,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   )}
                   {showResume && (
                     <Button
-                      onClick={() => router.push("/resume")}
+                      onClick={() => router.push("/")}
                       classes="first:ml-1"
                     >
                       Resume
@@ -138,7 +138,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             )}
             {showResume && (
               <Button
-                onClick={() => router.push("/resume")}
+                onClick={() => router.push("/Liam_Davies_Resume_2025.pdf")}
                 classes="first:ml-1"
               >
                 Resume

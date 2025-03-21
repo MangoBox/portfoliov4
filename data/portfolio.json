@@ -1,1 +1,512 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "Liam Davies",
+  "headerTaglineOne": "Hey!",
+  "headerTaglineTwo": "I'm Liam - Tinkerer, Photographer",
+  "headerTaglineThree": "and Electronic Engineer.",
+  "headerTaglineFour": "",
+  "showCursor": false,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/MangoBox"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/liamdaviesau"
+    },
+    {
+      "id": "5",
+      "title": "Email",
+      "link": "mailto:liam@ampedinventor.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Arduino IDE 2",
+      "description": "Live debugging, code auto-completion and a streamlined programming workflow are just some of the features available with the release of the new Arduino IDE 2.0 Beta. We take a thorough look.",
+      "imageSrc": "project_images/arduino_ide_2.0_beta.jpg",
+      "url": "https://diyodemag.com/education/secret_code_arduino_ide_20_beta"
+    },
+    {
+      "id": 2,
+      "title": "Visuino",
+      "description": "Learn a unique style of Arduino programming with Visuino, a clever and incredibly intuitive software that lets you make awesome projects without a single line of code!Weve written literally hundreds of projects that use the Arduino programming...",
+      "imageSrc": "project_images/visuino.jpg",
+      "url": "https://diyodemag.com/education/visuino_visual_programming_arduino_nano"
+    },
+    {
+      "id": 3,
+      "title": "Efficient Arduino Programming",
+      "description": "Make your Arduino projects better than ever by learning some awesome programming tips and tricks. Well show you new approaches to writing and testing your own code! - by Liam Davies. No matter how good your 3D printing and soldering skills are, at...",
+      "imageSrc": "project_images/efficient_arduino_programming.jpg",
+      "url": "https://diyodemag.com/education/efficient_arduino_programming"
+    },
+    {
+      "id": 4,
+      "title": "Learning MicroPython on microbit - Part 2",
+      "description": "In part 1 of our learning MicroPython on micro:bit, we looked at how to write code for the micro:bit using Mu, a simple but fully-featured development environment thats great for beginners. In this second half, were going to be learning how to use the Bit:Bot. Lets get started!",
+      "imageSrc": "project_images/learning_micropython_on_microbit_-_part_2.jpg",
+      "url": "https://diyodemag.com/education/secret_code_learning_micropython_on_bbc_microbit_and_bitbot_robot"
+    },
+    {
+      "id": 5,
+      "title": "Digital Interfaces with Arduino",
+      "description": "In this edition of Fundamentals, we&apos;ll look at some commonly used circuit interfaces - pushbuttons, rotary encoders and keypads - and how we can process the digital circuits connected to them in code. Well also check out some problems that you...",
+      "imageSrc": "project_images/digital_interfaces_with_arduino.jpg",
+      "url": "https://diyodemag.com/education/fundamentals_digital_interfaces_with_arduino"
+    },
+    {
+      "id": 6,
+      "title": "Under Pressure",
+      "description": "We take a look at these powerful weight sensors and how you can use one in your next microcontroller project.",
+      "imageSrc": "project_images/under_pressure.jpg",
+      "url": "https://diyodemag.com/education/weight_measurement_using_load_cells_arduino"
+    },
+    {
+      "id": 7,
+      "title": "RLC Filters",
+      "description": "There are a lot of different ways we could start talking about this Classroom due to the sheer variety of RLC filters and the applications of each type. We covered filters back in Issue 15 - nearly four years ago now - so its probably time for a...",
+      "imageSrc": "project_images/rlc_filters.jpg",
+      "url": "https://diyodemag.com/education/the_classroom_rlc_filters_and_design"
+    },
+    {
+      "id": 8,
+      "title": "Ethical Making",
+      "description": "Distinguishing between right and wrong in a world full of absolutes is no easy task. We look into some of the ethical situations the Maker community has been faced with over the years. As makers, we build a lot of things. Sometimes theyre entirely...",
+      "imageSrc": "project_images/ethical_making.jpg",
+      "url": "https://diyodemag.com/features/ethical_making"
+    },
+    {
+      "id": 9,
+      "title": "Learning MicroPython on microbit - Part 1",
+      "description": "Welcome to Part 1 of the MicroPython series! We'll teach you the basics of MicroPython on the micro:bit, and show you how to make some cool electronic gadgets while you're at it!",
+      "imageSrc": "project_images/learning_micropython_on_microbit_-_part_1.jpg",
+      "url": "https://diyodemag.com/education/secret_code_learning_micropython_on_microbit_part_1"
+    },
+    {
+      "id": 10,
+      "title": "DIYstable DIYlatch",
+      "description": "Two awesome general-purpose NE555 boards. The venerable NE555 is still one of the most popular integrated circuits (ICs) in the world. It is loved by makers everywhere because of its simplicity, its reliability, ruggedness, and versatility. It is also...",
+      "imageSrc": "project_images/diystable_diylatch.jpg",
+      "url": "https://diyodemag.com/projects/diystable_diylatch_astable_ne555_latch_circuits_boards"
+    },
+    {
+      "id": 11,
+      "title": "Basketball Arcade Machine Part 1",
+      "description": "A DIY arcade-style basketball game with some maker twists. Every now and again, we love to make something that can only be justified by phrases like \"just because\" and questions like \"Why not?\" rather than\"Why?\". The last time we did so was the giant...",
+      "imageSrc": "project_images/basketball_arcade_machine_part_1.jpg",
+      "url": "https://diyodemag.com/projects/basketball_arcade_machine_part_1_with_arduino_mega_based_electronics_lighting"
+    },
+    {
+      "id": 12,
+      "title": "DIY 35mm Film Scanner",
+      "description": "Get back into classic film photography, or reminisce on old photo negatives with this Raspberry Pi-powered film scanner!Over the past couple of years, the art of film photography has undergone a massive resurgence. The word massive is an...",
+      "imageSrc": "project_images/diy_35mm_film_scanner.jpg",
+      "url": "https://diyodemag.com/projects/raspberry_pi_diy_35mm_film_scanner_project"
+    },
+    {
+      "id": 13,
+      "title": "Exploring DIYsplay - Part 2",
+      "description": "Last month, we explored the possibilities of the DIYsplay, a customisable display that comes preloaded with over 70 individual screens. This month, we&apos;re upping the ante with some more practical projects! They are more advanced than last month, so...",
+      "imageSrc": "project_images/exploring_diysplay_-_part_2.jpg",
+      "url": "https://diyodemag.com/projects/diysplay_arduino_uno_batter_tester_compass_gps_rgb_led_controller"
+    },
+    {
+      "id": 14,
+      "title": "DIY Night Vision Goggles using Raspberry Pi",
+      "description": "Build your own Raspberry Pi powered night vision goggles! Complete with an Iron Man style HUD and headset! When we introduce projects, we usually spend a bit of time delving into the history, uses and justifications for what we build. This Night...",
+      "imageSrc": "project_images/diy_night_vision_goggles_using_raspberry_pi.jpg",
+      "url": "https://diyodemag.com/projects/build_your_own_raspberry_pi_powered_diy_night_vision_goggles_nvg",
+      "featured": true
+    },
+    {
+      "id": 15,
+      "title": "Arduino with Pi",
+      "description": "We put this Nano-sized Arduino powerhouse to the test with two easy-to-build projects.",
+      "imageSrc": "project_images/arduino_with_pi.jpg",
+      "url": "https://diyodemag.com/projects/arduino_nano_rp2040_connect_review_project"
+    },
+    {
+      "id": 16,
+      "title": "Seeing Stars",
+      "description": "We show you how to reverse engineer a cheap GoTo telescope so that you can add automation using an Arduino.",
+      "imageSrc": "project_images/seeing_stars.jpg",
+      "url": "https://diyodemag.com/projects/hacking-motorised-goto-telescope-arduino-uno-nano",
+      "featured": true
+    },
+    {
+      "id": 17,
+      "title": "EZ-ATX Workbench Power Supply Part 2",
+      "description": "Transform any old computer power supply into an absolute workbench beast with this project. Welcome back to Part 2 of the EZ-ATX project. After a bit of troubleshooting from last month (Part 1 Issue 66), were assembling our final design, uploading...",
+      "imageSrc": "project_images/ez-atx_workbench_power_supply_part_2.jpg",
+      "url": "https://diyodemag.com/projects/ez_atx_arduino_workbench_power_supply_part_2"
+    },
+    {
+      "id": 18,
+      "title": "Fan the Fumes",
+      "description": "Clear nasty soldering fumes out of your work area with this handy fume extractor. Its a great alternative to pricey commercial products and comes with a dimmable LED strip for lighting up the subject circuit board!BUILD TIME: 2 Hours (+ 3D PRINT...",
+      "imageSrc": "project_images/fan_the_fumes.jpg",
+      "url": "https://diyodemag.com/projects/fan_the_fumes_diy_soldering_fan_fume_extractor"
+    },
+    {
+      "id": 19,
+      "title": "Digital Seismometer",
+      "description": "Did you know hundreds of tiny earthquakes travel across the Earths surface daily, many too small to be felt? In this project, we design and test our own high-resolution digital seismometer. It can pick up the smallest vibrations in the surface below,...",
+      "imageSrc": "project_images/digital_seismometer.jpg",
+      "url": "https://diyodemag.com/projects/arduino_uno_based_diy_earthquake_digital_seismometer"
+    },
+    {
+      "id": 20,
+      "title": "Mini LED IoT Display",
+      "description": "Build an eye-catching LED display capable of displaying data from the internet of your choosing! BUILD TIME: 1 HOURDIFFICULTY RATING: IntermediatEWhether its the time, weather, current news, stock prices, or even your own internet-stored data...",
+      "imageSrc": "project_images/mini_led_iot_display.jpg",
+      "url": "https://diyodemag.com/projects/mini_scrolling_led_iot_display_esp8266"
+    },
+    {
+      "id": 21,
+      "title": "Star Gazing",
+      "description": "Capture incredible photos of the night sky with this Arduino-based Star Tracker for your DSLR. Simply mount the stepper-motor driven arm onto your tripod, align it and point your camera at whatever astronomical object youd like to photograph!",
+      "imageSrc": "project_images/star_gazing.jpg",
+      "url": "https://diyodemag.com/projects/arduino_nano_star_tracker_astrophotography_project"
+    },
+    {
+      "id": 22,
+      "title": "EZ-ATX Workbench Power Supply Part 1",
+      "description": "Transform any old computer power supply into an absolute workbench beast with this project. Nearly five years ago, we published our original Feel The Power project in Issue 7, where we used a PC power supply to build an incredibly simple but...",
+      "imageSrc": "project_images/ez-atx_workbench_power_supply_part_1.jpg",
+      "url": "https://diyodemag.com/projects/ez_atx_arduino_workbench_power_supply_part_1"
+    },
+    {
+      "id": 23,
+      "title": "DIY Claw Machine",
+      "description": "Build your own Claw Machine from an old 3D Printer! Our awesome arcade machine comes complete with a joystick, smooth stepper motors, and even a clever claw system! Weve built a lot of weird and wonderful candy-related machines over the years, and...",
+      "imageSrc": "project_images/diy_claw_machine.jpg",
+      "url": "https://diyodemag.com/projects/diy_claw_machine_using_an_upcycled_3d_printer_arduino_nano"
+    },
+    {
+      "id": 24,
+      "title": "Portable Arduino",
+      "description": "We finish off the Arduino-powered Power Logger project by building a PCB, 3D printing a case and adding some handy features into the code.",
+      "imageSrc": "project_images/portable_arduino.jpg",
+      "url": "https://diyodemag.com/projects/portable_arduino_power_monitor_tester_logger_part_2"
+    },
+    {
+      "id": 25,
+      "title": "Bright Bricks",
+      "description": "A look at both commercial and completely DIY lighting for your LEGO models.",
+      "imageSrc": "project_images/bright_bricks.jpg",
+      "url": "https://diyodemag.com/projects/bright_bricks_diy_custom_lighting_for_lego_sets"
+    },
+    {
+      "id": 26,
+      "title": "DIY PC Audio Mixer",
+      "description": "Manage audio on your computer quickly with this mini mixer board!BUILD TIME: A weekend DIFFICULTY RATING: Intermediate Desktop computers have always been known for their productivity. Whatever the platform youre working on, whether that be...",
+      "imageSrc": "project_images/diy_pc_audio_mixer.jpg",
+      "url": "https://diyodemag.com/projects/diy_mini_pc_audio_mixer_arduino_nano"
+    },
+    {
+      "id": 27,
+      "title": "Exploring DIYsplay - Part 3",
+      "description": "Learn how to make three more awesome projects with the DIYsplay! - by Liam Davies This month marks the fourth issue since we have released the DIYsplay, our first real product. Thanks to its huge array of customisable screens, weve been building a...",
+      "imageSrc": "project_images/exploring_diysplay_-_part_3.jpg",
+      "url": "https://diyodemag.com/projects/diysplay_arduino_projects_nerf_gun_frequency_generator_spotify"
+    },
+    {
+      "id": 28,
+      "title": "Making with Wio",
+      "description": "We take a look at the Wio Terminal and how you can use it standalone or expand it with Arduino or Raspberry Pi hardware.",
+      "imageSrc": "project_images/making_with_wio.jpg",
+      "url": "https://diyodemag.com/projects/3_fun_projects_using_wio_terminal"
+    },
+    {
+      "id": 29,
+      "title": "Exploring DIYsplay - Part 1",
+      "description": "Learn about how to use DIYsplay in your projects in a few minutes and create awesome graphical displays! - by Liam Davies Recently, we introduced our first real physical product - the DIYsplay! Weve spent a number of months developing it in...",
+      "imageSrc": "project_images/exploring_diysplay_-_part_1.jpg",
+      "url": "https://diyodemag.com/projects/exploring_diysplay_arduino_uno_circuit_examples"
+    },
+    {
+      "id": 30,
+      "title": "Retro Computer Dashboard",
+      "description": "See at a glance how your computer is performing with this Nano-based PC Status Dashboard.",
+      "imageSrc": "project_images/retro_computer_dashboard.jpg",
+      "url": "https://diyodemag.com/projects/retro_computer_dashboard)"
+    },
+    {
+      "id": 31,
+      "title": "Perfect Timing - Intervalometer",
+      "description": "Remotely control your camera or other workshop gadgets with this handheld intervalometer, with Bluetooth Low Energy, a gesture sensor, and a flash laser-cut case to boot!",
+      "imageSrc": "project_images/perfect_timing_-_intervalometer.jpg",
+      "url": "https://diyodemag.com/projects/arduino_dslr_camera_controller_intervalometer"
+    },
+    {
+      "id": 32,
+      "title": "_Ultra_ Tiny Programming (ATtiny10)",
+      "description": "A close look at the ATtiny10, the smallest microcontroller produced by Atmel, and how makers can use it to make compact projects.",
+      "imageSrc": "project_images/_ultra__tiny_programming_(attiny10).jpg",
+      "url": "https://diyodemag.com/projects/ultra_tiny_programming_attiny10_microcontroller"
+    },
+    {
+      "id": 33,
+      "title": "Ready to Race Part 1",
+      "description": "Make your own custom racing dashboard for a more immersive experience in your next computer-based car game, at a fraction of the cost of commercial units.",
+      "imageSrc": "project_images/ready_to_race_part_1.jpg",
+      "url": "https://diyodemag.com/projects/ready_to_race_diy_racing_simulator_dashboard_part_1"
+    },
+    {
+      "id": 34,
+      "title": "Raspberry Pi Powered GPS Tracker",
+      "description": "Track your valuables from across the street (or country) with this Rasperry Pi Zero-powered GPS Tracker.",
+      "imageSrc": "project_images/raspberry_pi_powered_gps_tracker.jpg",
+      "url": "https://diyodemag.com/projects/raspberry_pi_powered_gps_tracker_project"
+    },
+    {
+      "id": 35,
+      "title": "Blast Off - Wireless Water Rocket Launcher Part 1",
+      "description": "An Arduino-based launcher for water rockets with multiple interlocks and safety features. BUILD TIME: A WEEKENDDIFFICULTY RATING: Intermediate Water rockets are, for most of us, a fun science experiment we did in high school, or maybe even...",
+      "imageSrc": "project_images/blast_off_-_wireless_water_rocket_launcher_part_1.jpg",
+      "url": "https://diyodemag.com/projects/blast_off_esp8266_wireless_water_rocket_launcher_part_1"
+    },
+    {
+      "id": 36,
+      "title": "PID Control",
+      "description": "We take an in-depth look at PID Control and how it can be used in your own projects, including a simple garden watering system that controls water flow from a gravity-fed water reservoir. BUILD TIME: A WEEKEND DIFFICULTY: Intermediate There are...",
+      "imageSrc": "project_images/pid_control.jpg",
+      "url": "https://diyodemag.com/projects/pid_control_explanation_of_proportional-integral-derivative_control"
+    },
+    {
+      "id": 37,
+      "title": "AI-Powered Dog Trainer Part 2",
+      "description": "Expanding on our AI-Powered Dog Trainer with additional functionality, 3D printed enclosure, and a servo-powered pet treat dispenser. ",
+      "imageSrc": "project_images/ai-powered_dog_trainer_part_2.jpg",
+      "url": "https://diyodemag.com/projects/ai_audio_classifier_dog_trainer_raspberry_pi_zero_w_part2"
+    },
+    {
+      "id": 38,
+      "title": "DIY DRL Daytime Running Lights",
+      "description": "Add an awesome set of LED lights to your car or truck with this project! Includes fully animated indicator lights, automatic dimming and more! Daytime Running Lights, or DRL for short, are being added to more and more modern cars, usually in the form...",
+      "imageSrc": "project_images/diy_drl_daytime_running_lights.jpg",
+      "url": "https://diyodemag.com/projects/arduino_nano_diy_drl_daytime_running_lights"
+    },
+    {
+      "id": 39,
+      "title": "Connect 4",
+      "description": "We make a large-scale electronic Connect 4 game with a few DIYODE twists.",
+      "imageSrc": "project_images/connect_4.jpg",
+      "url": "https://diyodemag.com/projects/giant_supersized_arduino_uno_arcade_connect_4_game"
+    },
+    {
+      "id": 40,
+      "title": "Automatic Zen Garden Part 1",
+      "description": "Japanese Rock Gardens, more commonly known as Zen Gardens, are a traditional style of rock garden, meant to depict a small landscape surrounded by raked gravel or sand. Many famous older gardens have been maintained for centuries, and are often used as a...",
+      "imageSrc": "project_images/automatic_zen_garden_part_1.jpg",
+      "url": "https://diyodemag.com/projects/automated_zen_garden_part_1_arduino_stepper_motor"
+    },
+    {
+      "id": 41,
+      "title": "Upcycle Theatre",
+      "description": "Theres a good chance that youve got an old laptop collecting dust in the house, so why not repurpose it into an awesome Home Theatre PC (HTPC)? In this project, we show you how to use the electronics from a laptop to build a machine perfect for...",
+      "imageSrc": "project_images/upcycle_theatre.jpg",
+      "url": "https://diyodemag.com/projects/upcycle_theatre_upcycling_a_laptop_into_a_htpc"
+    },
+    {
+      "id": 42,
+      "title": "Sweet Selections",
+      "description": "Here's a fun way to make some extra coin from all those sweet tooths around you at home or in the office.",
+      "imageSrc": "project_images/sweet_selections.jpg",
+      "url": "https://diyodemag.com/projects/sweet_selections_mini_arduino_nano_desk_vending_machine"
+    },
+    {
+      "id": 43,
+      "title": "Basketball Arcade Machine Part 2",
+      "description": "This month, we put some finishing touches on the build, and make and install the electronics. Last month&apos;s physical build was so extensive in the end that we had to split this project in two. Now, we are going to get stuck into the electronics...",
+      "imageSrc": "project_images/basketball_arcade_machine_part_2.jpg",
+      "url": "https://diyodemag.com/projects/basketball_arcade_machine_arduino_mega_led_part_2"
+    },
+    {
+      "id": 44,
+      "title": "Blast Off - Wireless Water Rocket Launcher Part 2",
+      "description": "In part 2 of the project, we share and detail the code, and some discoveries we made along the way. By Daniel Koch & Liam Davies. BUILD TIME: A WEEKENDDIFFICULTY RATING: Intermediate In last months water bottle rocket launcher project, we ran...",
+      "imageSrc": "project_images/blast_off_-_wireless_water_rocket_launcher_part_2.jpg",
+      "url": "https://diyodemag.com/projects/blast_off_esp8266_wireless_water_rocket_launcher_part_2"
+    },
+    {
+      "id": 45,
+      "title": "Tic Tac Toe",
+      "description": "Build your own handheld Tic-Tac-Toe gaming console and play against your mates!Comes complete with a 9V battery and 3D-printed enclosure so you can bring the fun anywhere!",
+      "imageSrc": "project_images/tic_tac_toe.jpg",
+      "url": "https://diyodemag.com/projects/tic_tac_toe_portable_electronic_game_machine"
+    },
+    {
+      "id": 46,
+      "title": "DIY RPi Dashboard",
+      "description": "Build this Raspberry-Pi powered head unit to add navigation, music, communication and even vehicle diagnostic features to virtually any car!",
+      "imageSrc": "project_images/diy_rpi_dashboard.jpg",
+      "url": "https://diyodemag.com/projects/diy_raspberry_pi_car_dashboard_head_unit"
+    },
+    {
+      "id": 47,
+      "title": "All Sky Camera",
+      "description": "Monitor the weather, capture meteors, and create awesome time-lapses of the night sky with this All-Sky Camera! It even has an inbuilt weather station and a Home Assistant dashboard for smart automation! - By Liam DaviesBUILD TIME: A Weekend DIFFICULTY...",
+      "imageSrc": "project_images/all_sky_camera.jpg",
+      "url": "https://diyodemag.com/projects/all_sky_camera_with_raspberry_pi",
+      "featured": true
+    },
+    {
+      "id": 48,
+      "title": "RADIOACTIVE",
+      "description": "Build a 100% functional geiger counter, complete with replica vintage case, analog gauge and glowing blue LEDs! - By Liam Davies and Daniel Koch Geiger Counters have been around for nearly a century and have a great number of scientific and practical...",
+      "imageSrc": "project_images/radioactive.jpg",
+      "url": "https://diyodemag.com/projects/radioactive_arduino_uno_geiger_counter"
+    },
+    {
+      "id": 49,
+      "title": "Automatic Zen Garden - Part 2",
+      "description": "Find your inner peace with this automatic Arduino-powered Zen Garden. Who knew watching a steel ball roll making pretty patterns in sand could be so relaxing? We finished off our Zen Garden project this month by improving our drive mechanism, adding...",
+      "imageSrc": "project_images/automatic_zen_garden_-_part_2.jpg",
+      "url": "https://diyodemag.com/projects/automated_zen_garden_part_2_arduino_stepper_motor"
+    },
+    {
+      "id": 50,
+      "title": "Portable Arduino Power Logger",
+      "description": "Monitor and log the behaviour of lab gadgets with this Arduino power logger! It can log voltage, current, power, energy and even disable or enable your connected circuits if something is not quite working as it should. It also has a 9V battery and a LCD display to make it fully portable!",
+      "imageSrc": "project_images/portable_arduino_power_logger.jpg",
+      "url": "https://diyodemag.com/projects/portable_arduino_power_monitor_tester_logger_part_1"
+    },
+    {
+      "id": 51,
+      "title": "AI-Powered Dog Trainer Part 1",
+      "description": "Learn how to program and train your own AI Audio Classifier on a Raspberry Pi Zero!",
+      "imageSrc": "project_images/ai-powered_dog_trainer_part_1.jpg",
+      "url": "https://diyodemag.com/projects/ai_audio_classifier_dog_trainer_raspberry_pi_zero_w"
+    },
+    {
+      "id": 52,
+      "title": "Make it Glow",
+      "description": "We show you how to create fun games and useful gadgets using the GlowBit from Core Electronics and a micro:bit. A great way to get into coding and electronics.",
+      "imageSrc": "project_images/make_it_glow.jpg",
+      "url": "https://diyodemag.com/projects/make_it_glow_glowbit_microbit_projects"
+    },
+    {
+      "id": 53,
+      "title": "Ready to Race Part 2",
+      "description": "This second and final part of the project will be dedicated to wiring up and programming the dashboard.",
+      "imageSrc": "project_images/ready_to_race_part_2.jpg",
+      "url": "https://diyodemag.com/projects/ready_to_race_diy_racing_simulator_dashboard_part_2",
+      "featured": true
+    },
+    {
+      "id": 54,
+      "title": "100MHz Digital Oscilloscope",
+      "description": "Were checking out the latest Oscilloscope from our friends over at Jaycar. Is it a worthy successor to its older brother? An essential part of any enthusiast maker&apos;s kit is the humble oscilloscope, so its important to pick one suitable for...",
+      "imageSrc": "project_images/100mhz_digital_oscilloscope.jpg",
+      "url": "https://diyodemag.com/reviews/100mhz_digital_oscilloscope_jaycar_qc1938_review"
+    },
+    {
+      "id": 55,
+      "title": "Better hardware design with Flux",
+      "description": "Flux.AI is one of the most interesting pieces of electronic design software weve come across, so we just had to check it out. Here are our thoughts! Design software for makers is essential. Its uses range from schematics, simulation and PCBs all...",
+      "imageSrc": "project_images/better_hardware_design_with_flux.ai.jpg",
+      "url": "https://diyodemag.com/reviews/better_pcb_electronics_hardware_design_with_flux_ai"
+    },
+    {
+      "id": 56,
+      "title": "Pokit Pro",
+      "description": "The power of an oscilloscope in the palm of your hand! A few years back, we featured the Pokit Pro and had a brief look into some of its cool features. Since then, the Kickstarter campaign has been funded many times over its goal, and the Pokit Pros...",
+      "imageSrc": "project_images/pokit_pro.jpg",
+      "url": "https://diyodemag.com/reviews/pokit_pro_oscilloscope_tested_reviewed"
+    },
+    {
+      "id": 57,
+      "title": "New Hardware - XIAO RP2040",
+      "description": "We check out the latest thumb-sized development board from Seeed, the XIAO RP2040. Every month, new development boards are popping up in electronics stores with more features, smaller sizes and an increasingly high standard of build quality. The XIAO...",
+      "imageSrc": "project_images/new_hardware_-_xiao_rp2040.jpg",
+      "url": "https://diyodemag.com/reviews/xiao_rp2040_seeed_studio_tested_review_projects"
+    },
+    {
+      "id": 58,
+      "title": "Meet DIYsplay",
+      "description": "DIYsplay has hundreds of applications, with just a few lines of code! Were not going to beat about the bush - were so excited about our latest skunkworks project that we just had to show it off before we fully release it. Nearly a year ago,...",
+      "imageSrc": "project_images/meet_diysplay.jpg",
+      "url": "https://diyodemag.com/reviews/meet_diysplay_arduino_compatible_colour_lcd_ips_display_module"
+    },
+    {
+      "id": 59,
+      "title": "ROCK 4C+",
+      "description": "We compare the Rock 4C+ board to its Raspberry Pi Alternative",
+      "imageSrc": "project_images/rock_4c+._a_raspberry_pi_alternative.jpg",
+      "url": "https://diyodemag.com/reviews/rock_4c_plus_board_vs_raspberry_pi_alternative"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Art Direction",
+      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+    },
+    {
+      "id": "2",
+      "title": "Branding",
+      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+    },
+    {
+      "id": "3",
+      "title": "Web Design",
+      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+    },
+    {
+      "id": "4",
+      "title": "3D Design",
+      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+    }
+  ],
+  "aboutpara": "Hey, I'm an electronics enthusiast and programmer from Sydney, Australia.\n\nI've had the opportunity to work with some of Australia's biggest figures in electronics, developing 60+ projects for DIYODE Magazine, and writing high quality production media for Jaycar Australia. I've also worked on some of the worlds fastest networking equipment at Arista Networks as an FPGA Engineer.\n\nI have a ton of practical experience under my belt, ranging from professional photography to production engineering. I've worked and studied at UTS as both a Bachelor of Engineering student and a Casual Academic, and had many exciting Study Abroad opportunities too.",
+  "resume": {
+    "tagline": "Liam Davies",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+      }
+    ],
+    "education": {
+      "universityName": "University X",
+      "universityDate": "2016-2020",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    },
+    "languages": [
+      "Javascript",
+      "HTML5",
+      "CSS",
+      "Python",
+      "Go"
+    ],
+    "frameworks": [
+      "React",
+      "Typescript",
+      "NodeJs"
+    ],
+    "others": [
+      "Figma",
+      "AdobeXD",
+      "AWS"
+    ]
+  }
+}
