@@ -1,4 +1,4 @@
-import { useRef } from "react";
+import { useState, useRef } from "react";
 import Header from "../components/Header";
 import ServiceCard from "../components/ServiceCard";
 import Socials from "../components/Socials";
@@ -14,6 +14,21 @@ import Cursor from "../components/Cursor";
 // Local Data
 import data from "../data/portfolio.json";
 
+
+function WorkCards(projects, full) {
+  let proj = projects.projects;
+  return (proj.map((project) => (
+    <WorkCard
+      key={project.id}
+      img={project.imageSrc}
+      name={project.title}
+      description={project.description}
+      onClick={() => window.open(project.url)}
+      featured={project?.featured}
+    />
+  )))
+}
+
 export default function Home() {
   // Ref
   const workRef = useRef();
@@ -22,6 +37,11 @@ export default function Home() {
   const textTwo = useRef();
   const textThree = useRef();
   const textFour = useRef();
+
+
+  const [workExpanded, setWorkExpanded] = useState(false);
+
+  const toggleWork = () => {setWorkExpanded(!workExpanded)}
 
   // Handling Scroll
   const handleWorkScroll = () => {
@@ -51,7 +71,7 @@ export default function Home() {
     if (a.featured && !b.featured) return -1;  // Move `a` to the front
     if (!a.featured && b.featured) return 1;   // Move `b` to the front
     return 0;  // No change if both are the same
-  });
+  }).slice(0, (workExpanded ? data.projects.length : 10));
   return (
     <div className={`relative ${data.showCursor && "cursor-none"}`}>
       {data.showCursor && <Cursor />}
@@ -99,21 +119,16 @@ export default function Home() {
         </div>
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
           <h1 className="text-2xl text-bold">Work.</h1>
-
           <div className="mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-2 gap-4">
-            {sorted_projects.map((project) => (
-              <WorkCard
-                key={project.id}
-                img={project.imageSrc}
-                name={project.title}
-                description={project.description}
-                onClick={() => window.open(project.url)}
-                featured={project?.featured}
-              />
-            ))}
+            <WorkCards
+              projects={sorted_projects}
+              full={workExpanded}
+            />
           </div>
         </div>
-
+        <Button type="primary" onClick={toggleWork}>
+          {workExpanded ? "Show Less" : "Show More"}
+        </Button>
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0">
           <h1 className="tablet:m-10 text-2xl text-bold">Services.</h1>
           <div className="mt-5 tablet:m-10 grid grid-cols-1 laptop:grid-cols-2 gap-6">
